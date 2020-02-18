@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import { withAuthenticator } from 'aws-amplify-react' 
 import './FileUploader'
 
 class FileUploader extends Component {
@@ -17,4 +18,6 @@ class FileUploader extends Component {
     }
 }
 
-export default FileUploader
+export default withAuthenticator (FileUploader, {
+    includesGreetings: true
+})
