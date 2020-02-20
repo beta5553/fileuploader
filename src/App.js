@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import './fileuploader/FileUploader'
 import FileUploader from './fileuploader/FileUploader';
+import Footer from './footer/Footer'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       
         <FileUploader /> 
         <FileUploader /> 
+        <Footer />
       
     </div>
   );
