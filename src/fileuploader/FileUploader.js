@@ -18,6 +18,8 @@ class FileUploader extends Component {
     }
 }
 
-export default withAuthenticator (FileUploader, {
-    includesGreetings: true
-})
+// export default withAuthenticator (FileUploader, {
+//     includesGreetings: true
+// })
+
+export default FileUploader
