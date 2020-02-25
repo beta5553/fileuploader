@@ -12,7 +12,7 @@ class Footer extends Component {
                 <a>Link here</a>
 
                 <div className="bottomBar"> 
-                    Contenedor
+                    Contenedor, mas informacion aqui para probar el nuevo repo
                 </div>
             </div>
         )
