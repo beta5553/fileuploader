@@ -12,7 +12,9 @@ class Footer extends Component {
                 <a>Link here</a>
 
                 <div className="bottomBar"> 
-                    Contenedor, mas informacion aqui para probar el nuevo repo
+                    Contenedor, mas informacion aqui para probar el nuevo repo.
+                    vamos a hacer mas de un cambio aqui para ver como sincronizar desde otra computadora usando git.
+
                 </div>
             </div>
         )
