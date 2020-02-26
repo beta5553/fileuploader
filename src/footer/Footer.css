@@ -2,3 +2,17 @@
     color: red;
     border: blue 1px solid;
 }
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+
+.footer, .push {
+    height: 50px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
