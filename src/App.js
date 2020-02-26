@@ -4,11 +4,13 @@ import './App.css';
 import './fileuploader/FileUploader'
 import FileUploader from './fileuploader/FileUploader';
 import Footer from './footer/Footer'
+import Header from './header/Header'
 
 function App() {
   return (
     <div className="App">
       
+        <Header />
         <FileUploader /> 
         <Footer />
       
