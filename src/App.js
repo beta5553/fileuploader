@@ -5,6 +5,8 @@ import './fileuploader/FileUploader'
 import FileUploader from './fileuploader/FileUploader';
 import Footer from './footer/Footer'
 import Header from './header/Header'
+import AddtionalContent from './additionalContent/AdditionalContent'
+
 
 function App() {
   return (
@@ -12,8 +14,9 @@ function App() {
       
         <Header />
         <FileUploader /> 
+        <AddtionalContent />
         <Footer />
-      
+    
     </div>
   );
 }
