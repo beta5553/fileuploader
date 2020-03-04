@@ -1,15 +1,18 @@
 .bottomBar {
-    color: red;
+
+    color: rgb(41, 58, 202);
     border: blue 1px solid;
+    height: 150px;    
 }
 
 .wrapper {
     min-height: 100%;
     margin-bottom: -50px;
+    height: 100px;
 }
 
 .footer, .push {
-    height: 50px;
+    height: 100px;
 }
 
 html, body {
