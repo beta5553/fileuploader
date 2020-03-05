@@ -18,6 +18,18 @@ class Footer extends Component {
 
                     Aqui vamos a agreagar mas contenido para nuestro proyecto.
                 </div>
+                <div className="bottomBar"> 
+                    Contenedor, mas informacion aqui para probar el nuevo repo.
+                    vamos a hacer mas de un cambio aqui para ver como sincronizar desde otra computadora usando git. <br /> 
+
+                    Aqui vamos a agreagar mas contenido para nuestro proyecto.
+                </div>
+                <div className="bottomBar"> 
+                    Contenedor, mas informacion aqui para probar el nuevo repo.
+                    vamos a hacer mas de un cambio aqui para ver como sincronizar desde otra computadora usando git. <br /> 
+
+                    Aqui vamos a agreagar mas contenido para nuestro proyecto.
+                </div>
             </div>
         )
     }
