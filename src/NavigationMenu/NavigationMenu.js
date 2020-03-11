@@ -6,6 +6,15 @@ class NavigationMenu extends Component {
         return(
             <div>
                 Left Navigation Menu`
+                <ol> 
+                    <li>Elemt1</li>
+                    <li>Elemt2</li>
+                    <li>Elemt3</li>
+                    <li>Elemt4</li>
+                    <li>Elemt5</li>
+                    <li>Elemt6</li>
+                    <li>Elemt7</li>
+                </ol>
             </div>
         )
     }
